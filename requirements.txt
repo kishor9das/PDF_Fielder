@@ -1,3 +1,5 @@
 streamlit
 PyMuPDF
 rapidfuzz
+pandas
+openpyxl
